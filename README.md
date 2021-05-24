@@ -13,7 +13,6 @@ E, sabendo-se que 1 depósito possui N equipamentos, e que 1 equipamento pertenc
 
 3. Altere esse README.rd, e inclua abaixo os comandos SQL para criação das tabelas, respeitando o relacionamento entre elas.
 
- **SQL:**
 <details><summary>**SQL: **</summary>
   <p>
     ```sql
