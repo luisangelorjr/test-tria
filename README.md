@@ -13,12 +13,11 @@ E, sabendo-se que 1 depósito possui N equipamentos, e que 1 equipamento pertenc
 
 3. Altere esse README.rd, e inclua abaixo os comandos SQL para criação das tabelas, respeitando o relacionamento entre elas.
 
-<details><summary>**SQL: **</summary>
-  <p>
-    ```sql
-      SELECT * FROM TESTE_SYNTAX_SUGAR;
-    ```
-  </p>
+**<details><summary>SQL: </summary>**
+
+```sql
+  SELECT * FROM TEST_SYNTAX_SUGAR;
+```
 </details>
 
 
@@ -30,35 +29,51 @@ E, sabendo-se que 1 depósito possui N equipamentos, e que 1 equipamento pertenc
 **Obs:** Utilize a estrutura de pastas, anotações, camadas de abstração, nomenclatura(inglês ou português), testes unitários(se tiver conhecimento) que você está acostumado.
 
 5. Altere esse README.rd para incluir o comando Maven para gerarmos o pacote e rodarmos a aplicação:
- **MVN:**
- ```
- //Digite os comandos aqui
- ```
+
+**<details><summary>MVN: </summary>**
+
+```bash
+  mvn --version
+```
+</details>
 
 6. Altere esse README.rd, adicionando os comandos pedidos:
 No nosso servidor onde fazemos o deploy, temos a imagem do nosso projeto, que se chama “asset-manage” e possui a TAG “0.01”. Execute os comandos Docker para listar as imagens, e depois o comando para executar essa imagem como container. Adicione os parâmetros para desanexar do comando e para sempre reiniciar.
- **Docker:**
- ```
- //Digite os comandos aqui
- ```
+
+**<details><summary>DOCKER: </summary>**
+
+```bash
+  docker version
+```
+</details>
 
 7. Altere esse README.rd, adicionando os comandos pedidos:
 Execute o comando Docker para listar todos os containers, inclusive os parados, e logo após inicie o container com o ID = bba606a95392.
- **Docker:**
- ```
- //Digite os comandos aqui
- ```
+
+**<details><summary>DOCKER: </summary>**
+
+```bash
+  docker version
+```
+</details>
+
  8. Responda as seguintes perguntas aqui mesmo nesse README:
-* Fale sobre 2 design patterns que você conhece e porque utilizá-los.
-**Resposta:**
- ```
- //Digite sua resposta aqui
- ```
-* Conhece os princípios SOLID? Por que utilizá-los? Explique os dois primeiros.
-**Resposta:**
- ```
- //Digite sua resposta aqui
- ```
+    1. Fale sobre 2 design patterns que você conhece e porque utilizá-los.
+    
+    **<details><summary>RESPOSTA: </summary>**
+    <p>Lorem ipsum...</p>
+    </details>
+    
+    2. Conhece os princípios SOLID? Por que utilizá-los? Explique os dois primeiros.
+    
+    **<details><summary>RESPOSTA: </summary>**
+        <p>Lorem ipsum...</p>
+    </details>
+
+  
+
+
+
 9. Após criar o projeto e alterar o README, com as respostas, faça um pull request.
 
 **BOA SORTE!**
