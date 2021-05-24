@@ -5,7 +5,7 @@
 
 # Passos
 **Leia com atenção todo esse README:**
-1. Faça um fork desse repositório, para sua conta pessoal.
+1. [x] Faça um fork desse repositório, para sua conta pessoal.
 2. Temos o seguinte cenário, com essas entidades:
 * Equipamento (id, código, nome, preço, modelo);
 * Depósito (id, nome, descrição, local)
