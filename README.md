@@ -6,7 +6,7 @@
 # Passos
 **Leia com atenção todo esse README:**
 1. [x] Faça um fork desse repositório, para sua conta pessoal.
-2. Temos o seguinte cenário, com essas entidades:
+2. [x] Temos o seguinte cenário, com essas entidades:
 * Equipamento (id, código, nome, preço, modelo);
 * Depósito (id, nome, descrição, local)
 E, sabendo-se que 1 depósito possui N equipamentos, e que 1 equipamento pertence somente a 1 depósito.
