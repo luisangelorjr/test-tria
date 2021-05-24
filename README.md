@@ -14,9 +14,14 @@ E, sabendo-se que 1 depósito possui N equipamentos, e que 1 equipamento pertenc
 3. Altere esse README.rd, e inclua abaixo os comandos SQL para criação das tabelas, respeitando o relacionamento entre elas.
 
  **SQL:**
- ```
- //Digite os comandos aqui
- ```
+<details><summary>**SQL: **</summary>
+  <p>
+    ```sql
+      SELECT * FROM TESTE_SYNTAX_SUGAR;
+    ```
+  </p>
+</details>
+
 
 4. Crie uma Api rest, com os seguintes endpoints:
 * Um endpoint para salvar um equipamento, considerando o estoque de ID = 1 e local = "SJC";
